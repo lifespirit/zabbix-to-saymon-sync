@@ -1,7 +1,7 @@
 # zabbix-to-saymon-sync
 Script for load zabbix data to saymon server.
 
-h2 INSTALL
+INSTALL
 -----------------------------------
 1. Install "jq" package
 2. Copy zabbix.sh to saymon scripts directory.
@@ -16,7 +16,7 @@ h2 INSTALL
 >HOST=%zabbix_host_url_for_connect_to_api%
 >...
 
-h2 HOW USE
+HOW USE
 -----------------------------------
 
 1. Add RDBMS object to Saymon
