@@ -7,14 +7,14 @@ INSTALL
 2. Copy zabbix.sh to saymon scripts directory.
 3. Edit zabbix.sh:
 
->...
+>
 >USER=%zabbix_user_for_script%
 >PASSWORD=%zabbix_password_for_script%
->...
+>
 >DATAFILE=%file_where_script_save_auth_tocken_(need_r/w_for_saymon_user)%
->...
+>
 >HOST=%zabbix_host_url_for_connect_to_api%
->...
+>
 
 HOW USE
 -----------------------------------
