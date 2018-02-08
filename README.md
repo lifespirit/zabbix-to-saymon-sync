@@ -9,6 +9,7 @@ INSTALL
 
 >
 >USER=%zabbix_user_for_script%
+>
 >PASSWORD=%zabbix_password_for_script%
 >
 >DATAFILE=%file_where_script_save_auth_tocken_(need_r/w_for_saymon_user)%
